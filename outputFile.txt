@@ -1,0 +1,27 @@
+Hyena Habitat:
+
+Hy01; Lou; 4 years old; birth date 2019-04-21; tan color; female; 70 pounds; from Friguia Park, Tunisia; arrived 2023-10-12
+Hy02; Kamari; 12 years old; birth date 2010-10-16; brown color; male; 150 pounds; from Friguia Park, Tunisia; arrived 2023-10-12
+Hy03; Zig; 4 years old; birth date 2019-04-20; black color; male; 120 pounds; from Friguia Park, Tunisia; arrived 2023-10-12
+Hy04; Shenzi; 8 years old; birth date 0000-00-00; black and tan striped color; female; 105 pounds; from Friguia Park, Tunisia; arrived 2023-10-12
+
+Lion Habitat:
+
+Li01; Drooper; 6 years old; birth date 2017-05-21; tan color; female; 300 pounds; from Zanzibar, Tanzania; arrived 2023-10-12
+Li02; Leo; 12 years old; birth date 2010-12-10; dark tan color; female; 375 pounds; from KopeLion, Tanzania; arrived 2023-10-12
+Li03; Cecil; 22 years old; birth date 2001-10-03; golden color; male; 450 pounds; from Zanzibar, Tanzania; arrived 2023-10-12
+Li04; Kimba; 4 years old; birth date 2019-03-26; tan and brown color; female; 275 pounds; from KopeLion, Tanzania; arrived 2023-10-12
+
+Bear Habitat:
+
+Be01; Smokey; 7 years old; birth date 2016-04-19; brown color; male; 320 pounds; from Alaska Zoo, Alaska; arrived 2023-10-12
+Be02; Yogi; 25 years old; birth date 1998-04-01; black color; female; 425 pounds; from Woodland park Zoo, Washington; arrived 2023-10-12
+Be03; Rupert; 4 years old; birth date 2018-11-11; black color; female; 355 pounds; from Woodland park Zoo, Washington; arrived 2023-10-12
+Be04; Snuggles; 4 years old; birth date 2019-03-09; brown color; male; 405 pounds; from Alaska Zoo, Alaska; arrived 2023-10-12
+
+Tiger Habitat:
+
+Ti01; Jiba; 2 years old; birth date 2021-03-15; gold and tan stripes color; male; 270 pounds; from Dhaka, Bangladesh; arrived 2023-10-12
+Ti02; Dave; 4 years old; birth date 2019-04-24; black stripes color; female; 400 pounds; from Dhaka, Bangladesh; arrived 2023-10-12
+Ti03; Tony; 18 years old; birth date 2005-10-05; gold and tan color; male; 300 pounds; from Bardia, Nepal; arrived 2023-10-12
+Ti04; Cuddles; 3 years old; birth date 2020-03-27; black stripes color; female; 285 pounds; from Bardia, Nepal; arrived 2023-10-12
